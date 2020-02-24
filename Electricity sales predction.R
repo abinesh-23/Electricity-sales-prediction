@@ -1,3 +1,8 @@
+###########################################
+#Abinesh Senthil Kumar
+###########################################
+
+
 setwd("C:/Users/Flynn/Desktop/IE500 R/Midterm")
 getwd()
 
